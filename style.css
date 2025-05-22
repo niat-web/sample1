@@ -1,0 +1,113 @@
+"@import url(""https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap"");
+.nav{
+    display: flex;
+    flex-direction: row;
+    background-color: #1E293B;
+    padding-left: 20px;
+    color: white;
+    padding-top: 10px;
+    font-family: Bree Serif;
+    width: 100vw;
+    height: 8vh;
+}
+.logo{
+    height: 50px;
+    width: 50px;
+    padding-right: 30px;
+}
+.sec{
+    background-image: url('https://img.b2bpic.net/premium-photo/african-american-doctor-showing-medical-expertise-elderly-patient-discussing-medication-treatment-hospital-waiting-area-receptionist-standing-reception-counter-checking-report-computer_482257-64469.jpg');
+    height: 70vh;
+    width: 100vw;
+    background-size: cover;
+    font-family: Bree Serif;
+    color: white;
+    padding-left: 70px;
+    align-content: center;
+   
+  }
+  .bf{
+      font-size: 60px;
+  }
+  .p{
+      font-size: 30px;
+  }
+  .btn{
+      border-radius: 10px;
+      background-color: #4A90E2;
+      color: white;
+      height: 60px;
+      width: 170px;
+      font-size: 20px;
+  }
+  .sp{
+      text-align: center; 
+      font-family: Bree Serif;
+  
+  }
+  .content {
+      display: flex;
+      flex-direction: row;
+  } 
+  .card{
+      width: 30vw;
+  }
+  .img{
+      height: 200px;
+      border-radius: 20px;
+  }
+  .footer{
+      background-color: #e0dfdc;
+      text-align: center;
+      font-family: Bree Serif;
+      padding-top: 20px;
+
+  }
+  .ft{
+      background-color: white;
+      height: 30px;
+      width: 500px;
+      border-radius: 10px;
+  }
+  .fb{
+      align-content: flex-start;
+  }
+ 
+  .fc{
+      width: 250px;
+      height: 30px;
+      background-color: white;
+  }
+  .cu{
+             border-radius: 10px;
+      background-color: #4A90E2;
+      color: white;
+      height: 60px;
+      width: 450px;
+      font-size: 20px;
+      margin-top: 20px;
+      margin-bottom: 30px;
+  }
+  .ff{
+      background-color: #0A1426;
+      padding:40px;
+      color:white;
+      font-size: 20px;
+      font-family: Bree Serif;
+      display: flex;
+      flex-direction: row;
+  }
+  .flexy{
+      display: flex;
+      flex-direction: row;
+      
+  }
+  .second{
+      margin-left: 300px;
+      margin-right: 100px;
+  }
+  .fa-bars{
+      margin-left: 920px;
+      margin-top: 20px;
+      
+  }"
